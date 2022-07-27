@@ -18,7 +18,7 @@ It is an online E-commerce app where user can buy for them self like amazon plat
 
 # <span style="color:blue"> Tech Stack Used: </span>
 
-We have used sts spring tool platform ,Java,spring ,spring boot framework , annotations, model , service layer , service implementation , controller layer , data access layer and mysql as a database for building this Project. We also used tools like GitHub for collaboration of our project, Slack & Zoom as means of a communication channel.
+I have used sts spring tool platform ,Java,spring ,spring boot framework , annotations, model , service layer , service implementation , controller layer , data access layer and mysql as a database for building this Project. i also used tools like GitHub for collaboration of our project, Slack & Zoom as means of a communication channel.
 
 
 # <span style="color:red"> Thank You For Reading </span>
